@@ -42,8 +42,8 @@ Este projeto está licenciado sob a MIT License.
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Desenvolvedora
 
-Feito com 💜 por Thuysa Monique Luvison da Rosa
+**Feito com 💜 e muito café por Thuysa Monique Luvison da Rosa**
 
 **[Consulta-de-Cep-API](https://consulta-de-cep-api.vercel.app/)**
