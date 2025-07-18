@@ -1,6 +1,7 @@
 # 📍 Consulta de CEP - ViaCEP Finder 🗺️
 
-Uma aplicação web simples e interativa para consultar informações de endereço a partir de um CEP brasileiro, utilizando a API pública do [ViaCEP](https://viacep.com.br).
+Bem-vindo ao **Consulta de CEP - ViaCEP Finder**!
+Este projeto é uma aplicação web simples e interativa para consultar informações de endereço a partir de um CEP brasileiro, utilizando a API pública do [ViaCEP](https://viacep.com.br).
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/viacep-finder)
 ![GitHub language count](https://img.shields.io/github/languages/count/SEU_USUARIO/viacep-finder)
@@ -10,10 +11,10 @@ Uma aplicação web simples e interativa para consultar informações de endere�
 
 ## ✨ Funcionalidades
 
-✅ Consulta de CEP em tempo real  
-✅ Exibição de dados organizados na tela  
-✅ Interface responsiva e amigável  
-✅ Armazenamento leve no navegador (sem dependências externas)  
+- ✅ Consulta de CEP em tempo real  
+- ✅ Exibição de dados organizados na tela  
+- ✅ Interface responsiva e amigável  
+- ✅ Armazenamento leve no navegador (sem dependências externas)  
 
 ---
 
@@ -26,19 +27,28 @@ Uma aplicação web simples e interativa para consultar informações de endere�
   
 ---
 
-## 📁 Estrutura de Arquivos
+## 📁 Estrutura dos Arquivos
 
-📦viacep-finder/
- ┣ 📄 index.html        → Estrutura da página
- ┣ 📄 style.css         → Estilos visuais
- ┣ 📄 script.js         → Lógica e integração com a API
- ┣ 📄 localizacao-de-busca.png → Favicon
- ┗ 📄 screenshot.png    → Captura de tela do projeto (opcional)
+📦 Consulta-CEP/
+ ┣ 📜 `index.html` → Estrutura da página
+ ┣ 📜 `style.css`  → Estilos visuais e responsividade
+ ┣ 📜 `script.js`  → Lógica e integração com a API
+ ┗ 📷 localizacao-de-busca.png (Favicon)
  
 ---
 
+## 📱 Compatibilidade com celular e tablet
+
+O layout foi feito usando `flexbox` e media queries para funcionar bem em celulares e tablets.  
+Os botões se ajustam, os textos continuam legíveis, e tudo se adapta ao tamanho da tela.
+
+---
+
 ## 📄 Licença
+
 Este projeto está licenciado sob a MIT License.
+
+💼 Projeto pessoal para aprendizado de desenvolvimento web!
 
 ---
 
@@ -46,4 +56,4 @@ Este projeto está licenciado sob a MIT License.
 
 **Feito com 💜 e muito café por Thuysa Monique Luvison da Rosa**
 
-**[Consulta-de-Cep-API](https://consulta-de-cep-api.vercel.app/)**
+📌 **[Consulta-de-Cep-API](https://consulta-de-cep-api.vercel.app/)** 📌
