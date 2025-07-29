@@ -1,6 +1,6 @@
 # 📍 Consulta de CEP - ViaCEP Finder 🗺️
 
-Bem-vindo ao **Consulta de CEP - ViaCEP Finder**!
+Bem-vindo(a) ao **Consulta de CEP - ViaCEP Finder**!
 
 Este projeto é uma aplicação web simples e interativa para consultar informações de endereço a partir de um CEP brasileiro, utilizando a API pública do [ViaCEP](https://viacep.com.br).
 
